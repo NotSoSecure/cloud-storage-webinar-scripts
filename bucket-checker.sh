@@ -6,6 +6,7 @@
 #                threats
 #Author         :Scott Isaac
 #Email          :scott@notsosecure.com
+###################################################################
 
 if aws sts get-caller-identity >/dev/null
 then
